@@ -1,0 +1,13 @@
+C:\Users\Марк\source\repos\CalculatorConsol\CalculatorConsol\bin\Debug\netcoreapp3.1\CalculatorConsol.exe
+C:\Users\Марк\source\repos\CalculatorConsol\CalculatorConsol\bin\Debug\netcoreapp3.1\CalculatorConsol.deps.json
+C:\Users\Марк\source\repos\CalculatorConsol\CalculatorConsol\bin\Debug\netcoreapp3.1\CalculatorConsol.runtimeconfig.json
+C:\Users\Марк\source\repos\CalculatorConsol\CalculatorConsol\bin\Debug\netcoreapp3.1\CalculatorConsol.runtimeconfig.dev.json
+C:\Users\Марк\source\repos\CalculatorConsol\CalculatorConsol\bin\Debug\netcoreapp3.1\CalculatorConsol.dll
+C:\Users\Марк\source\repos\CalculatorConsol\CalculatorConsol\bin\Debug\netcoreapp3.1\CalculatorConsol.pdb
+C:\Users\Марк\source\repos\CalculatorConsol\CalculatorConsol\obj\Debug\netcoreapp3.1\CalculatorConsol.csprojAssemblyReference.cache
+C:\Users\Марк\source\repos\CalculatorConsol\CalculatorConsol\obj\Debug\netcoreapp3.1\CalculatorConsol.AssemblyInfoInputs.cache
+C:\Users\Марк\source\repos\CalculatorConsol\CalculatorConsol\obj\Debug\netcoreapp3.1\CalculatorConsol.AssemblyInfo.cs
+C:\Users\Марк\source\repos\CalculatorConsol\CalculatorConsol\obj\Debug\netcoreapp3.1\CalculatorConsol.csproj.CoreCompileInputs.cache
+C:\Users\Марк\source\repos\CalculatorConsol\CalculatorConsol\obj\Debug\netcoreapp3.1\CalculatorConsol.dll
+C:\Users\Марк\source\repos\CalculatorConsol\CalculatorConsol\obj\Debug\netcoreapp3.1\CalculatorConsol.pdb
+C:\Users\Марк\source\repos\CalculatorConsol\CalculatorConsol\obj\Debug\netcoreapp3.1\CalculatorConsol.genruntimeconfig.cache
